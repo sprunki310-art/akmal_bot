@@ -1,0 +1,11 @@
+pyTelegramBotAPI
+requests
+python-dotenv
+openpyxl
+pandas
+aiohttp
+flask
+telethon
+pysocks
+python-socks[asyncio]
+Pillow
